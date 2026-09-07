@@ -63,7 +63,7 @@ Arduino Uno
 
 ## 🖼️ Esquemático
 
-![Divisor de tensão do LDR](circuit_images/image_simulador.png)
+![Divisor de tensão do LDR](circuit_images/esquematico.png)
 ![Circuito Real](circuit_images/Circuito_real.jpg)
 
 > O arquivo `Esquemático/alarme_ldr.asc` contém o divisor de tensão do LDR simulável no LTspice — a parte analógica do circuito que se beneficia de simulação. A fiação digital (botões, LEDs, buzzer) segue o diagrama de pinagem acima.
